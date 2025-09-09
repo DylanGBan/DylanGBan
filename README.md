@@ -6,6 +6,7 @@
 - I also have class projects that I have worked on at UCSD, but since I am still a student at the university, I cannot make
   the repositories public. Here is a list of my class projects so far:
   - CSE 120 (Operating Systems) ~ Using Nachos as a playground to put into practice material learned in class (eg. threads, context-switches, scheduling, etc.)
+  - CSE 110 (Software Engineering) ~ Using Android Studio, my team and I built a habit tracking app. Learned design patterns like Model-View-Presenter, Observer, etc. and agile software process like Unit testing, Object mocking, etc. 
   - CSE 105 (Theory of Computation) ~ Coded two files in Java that
       1) Helps prove that the language ADFA is a decidable language as it can be witnessed by a deciding Turing Machine.
       2) Proves that:
