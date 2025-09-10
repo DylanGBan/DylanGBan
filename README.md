@@ -2,7 +2,7 @@
 
 ### My name is Dylan Banerjee! I am a fourth year Mathematics-Computer Science major at the University of California San Diego. 
 
-- Here's my personal website: https://dylangban.github.io/dylan-banerjee-portfolio/
+- Here's my personal website: <a href="https://dylangban.github.io/dylan-banerjee-portfolio/" target="_blank">Dylan's Portfolio</a>
 - I also have class projects that I have worked on at UCSD, but since I am still a student at the university, I cannot make
   the repositories public. Here is a list of my class projects so far:
   - CSE 120 (Operating Systems) ~ Using Nachos as a playground to put into practice material learned in class (eg. threads, context-switches, scheduling, etc.)
