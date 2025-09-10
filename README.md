@@ -25,4 +25,5 @@
       ```
   - COGS 108 (Data Science in Practice) ~ A project using techniques learned in class about data science. This includes various graphs and training/using a linear regression model.
  
-  > If you would like to see any of these projects or have any questions, please feel free to email at dybanerjee@ucsd.edu
+ > [!NOTE]
+ > If you would like to see any of these projects or have any questions, please feel free to email at dybanerjee@ucsd.edu
