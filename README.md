@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Dylan Banerjee! I am a fourth year Mathematics-Computer Science major at the University of Calfornia San Diego. 
+### My name is Dylan Banerjee! I am a fourth year Mathematics-Computer Science major at the University of California San Diego. 
 
 - Here's my personal website: https://dylangban.github.io/dylan-banerjee-portfolio/
 - I also have class projects that I have worked on at UCSD, but since I am still a student at the university, I cannot make
